@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Typescript, Angular and CSS**
 
-- ⚡Passionate about **Tech, design, but also psychology and art**
+- ⚡Passionate about **Tech**, **design**, but also **psychology** and **art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
